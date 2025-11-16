@@ -21,3 +21,4 @@
   "cpu_load": 0.92,
   "memory_usage": 0.78
 }
+```
