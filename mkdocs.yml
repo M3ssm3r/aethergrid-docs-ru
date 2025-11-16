@@ -1,4 +1,6 @@
 site_name: AetherGrid - Техническая документация
+site_url: https://m3ssm3r.github.io/aethergrid-docs-ru/
+
 theme:
   name: material
   palette:
