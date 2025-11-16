@@ -1,0 +1,10 @@
+site_name: AetherGrid - Техническая документация
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: cyan
+nav:
+  - 'Введение': 'index.md'
+  - 'Руководство пользователя': 'user-guide.md'
+  - 'Справка по API': 'api-reference.md'
